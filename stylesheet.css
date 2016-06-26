@@ -12,11 +12,12 @@ nav
 /*Page one */
 .pageOne{
   
-background: url("https://s25.postimg.org/3tw3d4ay7/pexels_photo_63690.jpg") no-repeat center center fixed;
+background: url("https://s25.postimg.org/8dcxcdi7j/image.jpg") no-repeat fixed;
  
-   font-family: 'Bitter', serif;
+
+ font-family: 'Bitter', serif;
 background-size: cover;
-height : 800px;
+height : 900px;
   
 }
 
@@ -52,7 +53,7 @@ height : 800px;
 .b
 {
   font-weight : bold;
-  margin-left: 20px;
+  margin-left: 0px;
   color : black;
 }
 
@@ -94,7 +95,7 @@ padding-left : 60px;
 /*Page three */
 .pageThree{
   
-  background : url("https://s25.postimg.org/jgncqhoq7/pro.jpg") no-repeat center center fixed;
+  background : url("https://s31.postimg.org/sui0a7ap7/image.jpg") no-repeat center center fixed;
   font-family: 'Bitter', serif;
  height : 800px;
   background-size : cover;
@@ -134,8 +135,10 @@ padding-left : 60px;
 
 .pageFour{
 	
+	background : url("https://s25.postimg.org/49gjxmbn3/image.jpg") no-repeat center center fixed;
 	
- 
+ height : 900px;
+  background-size : cover;
   font-family: 'Bitter', serif;
 
 }
@@ -143,7 +146,8 @@ padding-left : 60px;
 {
 	 font-family: 'Bitter', serif;
   font-size : 55px;
-  padding-top : 30px;
+  padding-top : 90px;
+  color : white;
 }
 
 /*Contact */
@@ -162,7 +166,7 @@ input.Message
 }
 h3.FormName
 {
-  color : black;
+  color : white;
   text-align : left;
   font-size: 20px;
   
@@ -178,7 +182,7 @@ button.submit{
 #footer-below
 {
    font-family: 'Bitter', serif;
-  margin-top :30px;
+  margin-top :0px;
   color : white;
   background : black;
  }
