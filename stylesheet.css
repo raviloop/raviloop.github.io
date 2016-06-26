@@ -12,7 +12,7 @@ nav
 /*Page one */
 .pageOne{
   
-background: url("https://static.pexels.com/photos/63690/pexels-photo-63690.jpeg") no-repeat center center fixed;
+background: url("https://s25.postimg.org/3tw3d4ay7/pexels_photo_63690.jpg") no-repeat center center fixed;
  
    font-family: 'Bitter', serif;
 background-size: cover;
@@ -62,7 +62,7 @@ height : 800px;
 /* Page Two */
 .pageTwo{
   
-  background : url("https://static.pexels.com/photos/29765/pexels-photo.jpg") no-repeat center center fixed;
+  background : url("https://s25.postimg.org/gnyqk7drj/pagetwo.jpg") no-repeat center center fixed;
   font-family: 'Bitter', serif;
  height : 800px;
   background-size : cover;
@@ -94,7 +94,7 @@ padding-left : 60px;
 /*Page three */
 .pageThree{
   
-  background : url("https://static.pexels.com/photos/29977/pexels-photo-29977.jpg") no-repeat center center fixed;
+  background : url("https://s25.postimg.org/jgncqhoq7/pro.jpg") no-repeat center center fixed;
   font-family: 'Bitter', serif;
  height : 800px;
   background-size : cover;
@@ -133,7 +133,11 @@ padding-left : 60px;
 /*Contact page */
 
 .pageFour{
- font-family: 'Bitter', serif;
+	
+	
+ 
+  font-family: 'Bitter', serif;
+
 }
 .pageFour p 
 {
