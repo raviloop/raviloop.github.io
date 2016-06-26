@@ -1,0 +1,180 @@
+
+body
+{
+  font-family: 'Bitter', serif;
+    
+}
+
+nav
+{
+  font-family: 'Bitter', serif;
+}
+/*Page one */
+.pageOne{
+  
+background: url("https://static.pexels.com/photos/63690/pexels-photo-63690.jpeg") no-repeat center center fixed;
+ 
+   font-family: 'Bitter', serif;
+background-size: cover;
+height : 800px;
+  
+}
+
+.logo
+{
+	width: 40px;
+}
+
+.profile
+{
+  padding-top : 150px;
+  margin-left : auto;
+  margin-right : auto;
+  
+}
+
+ .pageOne h1{
+  padding-top: 0px;
+  margin-top: 50px;
+  font-weight: 900;
+  color :white;
+  font-size: 80px;
+}
+
+.pageOne h3
+{
+  font-weight: bold;
+  color :white;
+}
+
+
+
+.b
+{
+  font-weight : bold;
+  margin-left: 20px;
+  color : black;
+}
+
+
+
+
+/* Page Two */
+.pageTwo{
+  
+  background : url("https://static.pexels.com/photos/29765/pexels-photo.jpg") no-repeat center center fixed;
+  font-family: 'Bitter', serif;
+ height : 800px;
+  background-size : cover;
+}
+
+.pageTwo h2
+{
+  
+   padding: 50px;
+  margin-top: 0px;
+  font-weight: 900;
+  color :white ;
+  font-size: 80px;
+}
+
+
+.note p
+{
+ margin-top: 30px; 
+font-size: 30px;
+padding-left : 60px;
+  padding-right:60px;
+  color :lavender; 
+ margin-left : 20px;
+  
+  text-align : center; 
+}
+
+/*Page three */
+.pageThree{
+  
+  background : url("https://static.pexels.com/photos/29977/pexels-photo-29977.jpg") no-repeat center center fixed;
+  font-family: 'Bitter', serif;
+ height : 800px;
+  background-size : cover;
+  
+}
+
+.pageThree h2
+{
+   padding: 50px;
+  margin-top: 0px;
+  font-weight: 900;
+  color : white ;
+  font-size: 80px;
+}
+
+.placeholder-item
+{
+  margin-left : 10px;
+
+  
+}
+
+.placeholder-desc
+{
+  font-size : 25px;
+  font-weight : 900 ;
+   
+  color : white;
+}
+
+.two
+{
+  padding-top: 55px;
+}
+
+/*Contact page */
+
+.pageFour{
+ font-family: 'Bitter', serif;
+}
+.pageFour p 
+{
+	 font-family: 'Bitter', serif;
+  font-size : 55px;
+  padding-top : 30px;
+}
+
+/*Contact */
+
+.form-group
+{
+  padding-top: 100px;
+  padding-left : 200px;
+  padding-right : 200px;
+  padding-bottom : 10px;
+}
+input.Message
+{
+  padding-top : 20px;
+  padding-bottom : 100px;
+}
+h3.FormName
+{
+  color : black;
+  text-align : left;
+  font-size: 20px;
+  
+}
+
+button.submit{
+  width : 200px;
+  height : 50px;
+  font-size : 20px;
+}
+
+/* Footer */
+#footer-below
+{
+   font-family: 'Bitter', serif;
+  margin-top :30px;
+  color : white;
+  background : black;
+ }
