@@ -217,3 +217,44 @@ button.submit{
   color : white;
   background : black;
  }
+ 
+ 
+ 
+ /*Tables */
+ 
+ 
+ td
+ {
+	 text-align : center;
+ }
+ 
+ 
+ table{
+	 
+	 margin-left:100px;
+	 margin-top : 70px;
+	 
+	 background : url("https://s25.postimg.org/nos8th2sv/elecbg.jpg") no-repeat center center fixed;
+  font-family: 'Bitter', serif;
+ height : 800px;
+  background-size : cover;
+  color : white;
+  border-color:white;
+ }
+ 
+ .bill-logo img{
+	 margin-top:80px;
+	 width:10em;
+	 margin-left:430px;
+	 margin-right:400px;
+ }
+ 
+ body.bilpage
+ {
+	 
+	background : url("https://s31.postimg.org/sui0a7ap7/image.jpg") no-repeat center center fixed;
+  font-family: 'Bitter', serif;
+ height : 800px;
+  background-size : cover; 
+ }
+ 
